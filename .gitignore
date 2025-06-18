@@ -1,0 +1,18 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+.env
+.wav
+/AI.iml
+/misc.xml
+/modules.xml
+/inspectionProfiles/profiles_settings.xml
+/vcs.xml
+/__pycache__/
+**/*.iml
+*.env
+*.wav
+/.idea/*
+.git/
+/node_modules/
+/assistant.log

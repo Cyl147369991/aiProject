@@ -1,0 +1,533 @@
+2025-06-16 09:20:43,187 - INFO - MCP客户端管理器已启动
+2025-06-16 09:20:43,187 - INFO - 开始连接MCP服务器: weather
+2025-06-16 09:20:43,852 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 09:20:43,853 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 09:20:43,853 - INFO - 连接服务器 weather 成功，耗时: 0.67秒
+2025-06-16 09:20:46,818 - INFO -  * Restarting with stat
+2025-06-16 09:20:48,171 - INFO - MCP客户端管理器已启动
+2025-06-16 09:20:48,172 - INFO - 开始连接MCP服务器: weather
+2025-06-16 09:20:48,174 - WARNING -  * Debugger is active!
+2025-06-16 09:20:48,179 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 09:20:48,840 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 09:20:48,842 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 09:20:48,842 - INFO - 连接服务器 weather 成功，耗时: 0.67秒
+2025-06-16 09:21:13,107 - INFO - Client connected
+2025-06-16 09:35:44,098 - INFO - Client disconnected
+2025-06-16 09:35:44,334 - INFO - Client connected
+2025-06-16 09:43:41,267 - INFO - Client disconnected
+2025-06-16 09:43:41,413 - INFO - Client connected
+2025-06-16 09:44:04,326 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-16 09:44:04,328 - INFO - 处理意图: weather, 实体: {'location': '深圳', 'time': '今天'}
+2025-06-16 09:44:04,328 - INFO - 查询城市: 深圳
+2025-06-16 09:44:04,328 - INFO - 开始调用工具: weather.query_weather
+2025-06-16 09:44:04,328 - INFO - 提交异步工具调用: weather.query_weather
+2025-06-16 09:44:04,329 - INFO - 调用服务器工具: weather.query_weather
+2025-06-16 09:44:06,339 - INFO - 异步调用耗时: 2.01秒
+2025-06-16 09:44:06,340 - INFO - 工具调用总耗时: 2.01秒
+2025-06-16 09:44:06,340 - INFO - 工具调用成功: weather.query_weather
+2025-06-16 09:44:06,968 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-16 09:54:41,961 - INFO - Client disconnected
+2025-06-16 09:54:41,978 - INFO - Client connected
+2025-06-16 09:54:55,654 - INFO - Client disconnected
+2025-06-16 09:54:55,662 - INFO - Client connected
+2025-06-16 09:55:07,191 - INFO - Client disconnected
+2025-06-16 09:55:07,198 - INFO - Client connected
+2025-06-16 10:02:16,100 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\app.py', reloading
+2025-06-16 10:02:16,112 - INFO - MCP客户端管理器已停止
+2025-06-16 10:02:16,114 - INFO - MCP连接已清理
+2025-06-16 10:02:16,114 - INFO - MCP连接已清理
+2025-06-16 10:02:16,290 - INFO -  * Restarting with stat
+2025-06-16 10:02:17,760 - INFO - MCP客户端管理器已启动
+2025-06-16 10:02:17,761 - INFO - 开始连接MCP服务器: weather
+2025-06-16 10:02:17,764 - WARNING -  * Debugger is active!
+2025-06-16 10:02:17,768 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 10:02:18,272 - INFO - Client connected
+2025-06-16 10:02:18,525 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 10:02:18,526 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 10:02:18,526 - INFO - 连接服务器 weather 成功，耗时: 0.77秒
+2025-06-16 10:06:21,517 - INFO - Client disconnected
+2025-06-16 10:06:21,542 - INFO - Client connected
+2025-06-16 10:06:45,720 - INFO - Client disconnected
+2025-06-16 10:06:45,727 - INFO - Client connected
+2025-06-16 10:07:03,494 - INFO - Client disconnected
+2025-06-16 10:07:03,500 - INFO - Client connected
+2025-06-16 10:07:17,466 - INFO - Client disconnected
+2025-06-16 10:07:17,485 - INFO - Client connected
+2025-06-16 10:08:08,803 - INFO - Client disconnected
+2025-06-16 10:08:08,814 - INFO - Client connected
+2025-06-16 10:08:59,080 - INFO - Client disconnected
+2025-06-16 10:08:59,202 - INFO - Client connected
+2025-06-16 10:14:44,131 - INFO - Client disconnected
+2025-06-16 10:14:44,143 - INFO - Client connected
+2025-06-16 10:20:22,507 - INFO - Processing image data...
+2025-06-16 10:20:22,507 - ERROR - 处理输入时出错: string indices must be integers, not 'str'
+2025-06-16 10:21:37,917 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\intent\\imageIntentProcessor.py', reloading
+2025-06-16 10:21:37,931 - INFO - MCP客户端管理器已停止
+2025-06-16 10:21:37,931 - INFO - MCP连接已清理
+2025-06-16 10:21:37,931 - INFO - MCP连接已清理
+2025-06-16 10:21:38,060 - INFO -  * Restarting with stat
+2025-06-16 10:21:39,416 - INFO - MCP客户端管理器已启动
+2025-06-16 10:21:39,417 - INFO - 开始连接MCP服务器: weather
+2025-06-16 10:21:39,419 - WARNING -  * Debugger is active!
+2025-06-16 10:21:39,423 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 10:21:39,761 - INFO - Client connected
+2025-06-16 10:21:40,100 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 10:21:40,101 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 10:21:40,101 - INFO - 连接服务器 weather 成功，耗时: 0.68秒
+2025-06-16 10:21:41,625 - INFO - MCP客户端管理器已停止
+2025-06-16 10:21:41,626 - INFO - MCP连接已清理
+2025-06-16 10:21:41,627 - INFO - MCP连接已清理
+2025-06-16 10:21:41,669 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MCPClientManager._disconnect_all() running at e:\upmicProject\upmic\project\AI\chatAssistant\mcpclient\mcp_client_manager.py:219> cb=[_chain_future.<locals>._call_set_state() at D:\soft\miniconda3\envs\py312\Lib\asyncio\futures.py:396]>
+2025-06-16 10:21:41,813 - INFO - MCP客户端管理器已停止
+2025-06-16 10:21:41,813 - INFO - MCP连接已清理
+2025-06-16 10:21:41,814 - INFO - MCP连接已清理
+2025-06-16 10:21:41,860 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MCPClientManager._disconnect_all() running at e:\upmicProject\upmic\project\AI\chatAssistant\mcpclient\mcp_client_manager.py:219> cb=[_chain_future.<locals>._call_set_state() at D:\soft\miniconda3\envs\py312\Lib\asyncio\futures.py:396]>
+2025-06-16 10:22:05,104 - INFO - MCP客户端管理器已启动
+2025-06-16 10:22:05,104 - INFO - 开始连接MCP服务器: weather
+2025-06-16 10:22:05,198 - INFO -  * Restarting with stat
+2025-06-16 10:22:05,776 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 10:22:05,776 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 10:22:05,777 - INFO - 连接服务器 weather 成功，耗时: 0.67秒
+2025-06-16 10:22:06,566 - INFO - MCP客户端管理器已启动
+2025-06-16 10:22:06,566 - INFO - 开始连接MCP服务器: weather
+2025-06-16 10:22:06,568 - WARNING -  * Debugger is active!
+2025-06-16 10:22:06,572 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 10:22:07,200 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 10:22:07,201 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 10:22:07,201 - INFO - 连接服务器 weather 成功，耗时: 0.64秒
+2025-06-16 10:22:08,253 - INFO - Client connected
+2025-06-16 10:23:08,105 - INFO - Client disconnected
+2025-06-16 10:23:08,221 - INFO - Client connected
+2025-06-16 10:23:16,419 - INFO - Processing image data...
+2025-06-16 10:23:22,906 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-16 10:23:22,913 - ERROR - 处理输入时出错: cannot unpack non-iterable NoneType object
+2025-06-16 10:30:03,098 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\app.py', reloading
+2025-06-16 10:30:03,111 - INFO - MCP客户端管理器已停止
+2025-06-16 10:30:03,111 - INFO - MCP连接已清理
+2025-06-16 10:30:03,111 - INFO - MCP连接已清理
+2025-06-16 10:30:03,253 - INFO -  * Restarting with stat
+2025-06-16 10:30:04,649 - INFO - MCP客户端管理器已启动
+2025-06-16 10:30:04,650 - INFO - 开始连接MCP服务器: weather
+2025-06-16 10:30:04,652 - WARNING -  * Debugger is active!
+2025-06-16 10:30:04,656 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 10:30:05,254 - INFO - Client connected
+2025-06-16 10:30:05,402 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 10:30:05,403 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 10:30:05,403 - INFO - 连接服务器 weather 成功，耗时: 0.75秒
+2025-06-16 10:59:02,626 - INFO - Client disconnected
+2025-06-16 10:59:02,745 - INFO - Client connected
+2025-06-16 10:59:24,207 - INFO - Client disconnected
+2025-06-16 10:59:24,277 - INFO - Client connected
+2025-06-16 11:01:44,174 - INFO - Client disconnected
+2025-06-16 11:02:57,287 - INFO - MCP客户端管理器已停止
+2025-06-16 11:02:57,287 - INFO - MCP连接已清理
+2025-06-16 11:02:57,288 - INFO - MCP连接已清理
+2025-06-16 11:02:57,428 - INFO - MCP客户端管理器已停止
+2025-06-16 11:02:57,428 - INFO - MCP连接已清理
+2025-06-16 11:02:57,428 - INFO - MCP连接已清理
+2025-06-16 11:02:57,465 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MCPClientManager._disconnect_all() running at e:\upmicProject\upmic\project\AI\chatAssistant\mcpclient\mcp_client_manager.py:219> cb=[_chain_future.<locals>._call_set_state() at D:\soft\miniconda3\envs\py312\Lib\asyncio\futures.py:396]>
+2025-06-16 11:03:05,802 - INFO - MCP客户端管理器已启动
+2025-06-16 11:03:05,802 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:03:05,892 - INFO -  * Restarting with stat
+2025-06-16 11:03:06,439 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:03:06,439 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:03:06,440 - INFO - 连接服务器 weather 成功，耗时: 0.64秒
+2025-06-16 11:03:07,220 - INFO - MCP客户端管理器已启动
+2025-06-16 11:03:07,221 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:03:07,222 - WARNING -  * Debugger is active!
+2025-06-16 11:03:07,225 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:03:07,889 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:03:07,890 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:03:07,890 - INFO - 连接服务器 weather 成功，耗时: 0.67秒
+2025-06-16 11:04:12,205 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\app.py', reloading
+2025-06-16 11:04:12,231 - INFO - MCP客户端管理器已停止
+2025-06-16 11:04:12,231 - INFO - MCP连接已清理
+2025-06-16 11:04:12,232 - INFO - MCP连接已清理
+2025-06-16 11:04:12,263 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MCPClientManager._disconnect_all() running at e:\upmicProject\upmic\project\AI\chatAssistant\mcpclient\mcp_client_manager.py:219> cb=[_chain_future.<locals>._call_set_state() at D:\soft\miniconda3\envs\py312\Lib\asyncio\futures.py:396]>
+2025-06-16 11:04:12,370 - INFO -  * Restarting with stat
+2025-06-16 11:04:13,726 - INFO - MCP客户端管理器已启动
+2025-06-16 11:04:13,727 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:04:13,729 - WARNING -  * Debugger is active!
+2025-06-16 11:04:13,734 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:04:14,458 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:04:14,459 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:04:14,459 - INFO - 连接服务器 weather 成功，耗时: 0.73秒
+2025-06-16 11:13:27,972 - INFO - MCP客户端管理器已停止
+2025-06-16 11:13:27,972 - INFO - MCP连接已清理
+2025-06-16 11:13:27,973 - INFO - MCP连接已清理
+2025-06-16 11:13:28,112 - INFO - MCP客户端管理器已停止
+2025-06-16 11:13:28,112 - INFO - MCP连接已清理
+2025-06-16 11:13:28,113 - INFO - MCP连接已清理
+2025-06-16 11:13:28,157 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MCPClientManager._disconnect_all() running at e:\upmicProject\upmic\project\AI\chatAssistant\mcpclient\mcp_client_manager.py:219> cb=[_chain_future.<locals>._call_set_state() at D:\soft\miniconda3\envs\py312\Lib\asyncio\futures.py:396]>
+2025-06-16 11:14:07,286 - INFO - MCP客户端管理器已启动
+2025-06-16 11:14:07,287 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:14:07,385 - INFO -  * Restarting with stat
+2025-06-16 11:14:08,053 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:14:08,054 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:14:08,054 - INFO - 连接服务器 weather 成功，耗时: 0.77秒
+2025-06-16 11:14:08,834 - INFO - MCP客户端管理器已启动
+2025-06-16 11:14:08,834 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:14:08,836 - WARNING -  * Debugger is active!
+2025-06-16 11:14:08,838 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:14:09,469 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:14:09,470 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:14:09,470 - INFO - 连接服务器 weather 成功，耗时: 0.64秒
+2025-06-16 11:14:16,741 - INFO - Client connected
+2025-06-16 11:14:30,866 - INFO - Processing audio data...
+2025-06-16 11:14:32,618 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-16 11:14:36,139 - INFO - 处理意图: weather, 实体: {'location': '深圳', 'time': '今天'}
+2025-06-16 11:14:36,142 - INFO - 查询城市: 深圳
+2025-06-16 11:14:36,142 - INFO - 开始调用工具: weather.query_weather
+2025-06-16 11:14:36,142 - INFO - 提交异步工具调用: weather.query_weather
+2025-06-16 11:14:36,143 - INFO - 调用服务器工具: weather.query_weather
+2025-06-16 11:14:38,150 - INFO - 异步调用耗时: 2.01秒
+2025-06-16 11:14:38,151 - INFO - 工具调用总耗时: 2.01秒
+2025-06-16 11:14:38,151 - INFO - 工具调用成功: weather.query_weather
+2025-06-16 11:14:38,863 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-16 11:21:43,858 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\intent\\audioIntentProcessor.py', reloading
+2025-06-16 11:21:43,871 - INFO - MCP客户端管理器已停止
+2025-06-16 11:21:43,871 - INFO - MCP连接已清理
+2025-06-16 11:21:43,871 - INFO - MCP连接已清理
+2025-06-16 11:21:44,037 - INFO -  * Restarting with stat
+2025-06-16 11:21:45,467 - INFO - MCP客户端管理器已启动
+2025-06-16 11:21:45,468 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:21:45,470 - WARNING -  * Debugger is active!
+2025-06-16 11:21:45,474 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:21:45,769 - INFO - Client connected
+2025-06-16 11:21:46,324 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:21:46,324 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:21:46,324 - INFO - 连接服务器 weather 成功，耗时: 0.86秒
+2025-06-16 11:22:24,096 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\intent\\audioIntentProcessor.py', reloading
+2025-06-16 11:22:24,097 - ERROR - 清理连接资源时出错: Attempted to exit cancel scope in a different task than it was entered in
+2025-06-16 11:22:24,097 - INFO - 断开MCP服务器连接: weather
+2025-06-16 11:22:24,109 - INFO - MCP客户端管理器已停止
+2025-06-16 11:22:24,109 - INFO - MCP连接已清理
+2025-06-16 11:22:24,109 - INFO - MCP连接已清理
+2025-06-16 11:22:24,261 - INFO -  * Restarting with stat
+2025-06-16 11:22:25,669 - INFO - MCP客户端管理器已启动
+2025-06-16 11:22:25,669 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:22:25,671 - WARNING -  * Debugger is active!
+2025-06-16 11:22:25,676 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:22:26,263 - INFO - Client connected
+2025-06-16 11:22:26,482 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:22:26,482 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:22:26,482 - INFO - 连接服务器 weather 成功，耗时: 0.81秒
+2025-06-16 11:31:32,745 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\API\\weatherService.py', reloading
+2025-06-16 11:31:32,745 - ERROR - 清理连接资源时出错: Attempted to exit cancel scope in a different task than it was entered in
+2025-06-16 11:31:32,746 - INFO - 断开MCP服务器连接: weather
+2025-06-16 11:31:32,758 - INFO - MCP客户端管理器已停止
+2025-06-16 11:31:32,758 - INFO - MCP连接已清理
+2025-06-16 11:31:32,759 - INFO - MCP连接已清理
+2025-06-16 11:31:32,875 - INFO -  * Restarting with stat
+2025-06-16 11:31:34,246 - INFO - MCP客户端管理器已启动
+2025-06-16 11:31:34,247 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:31:34,249 - WARNING -  * Debugger is active!
+2025-06-16 11:31:34,253 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:31:34,745 - INFO - Client connected
+2025-06-16 11:31:34,878 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:31:34,879 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:31:34,879 - INFO - 连接服务器 weather 成功，耗时: 0.63秒
+2025-06-16 11:33:31,793 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\intent\\mcpIntentProcessor.py', reloading
+2025-06-16 11:33:31,794 - ERROR - 清理连接资源时出错: Attempted to exit cancel scope in a different task than it was entered in
+2025-06-16 11:33:31,794 - INFO - 断开MCP服务器连接: weather
+2025-06-16 11:33:31,818 - INFO - MCP客户端管理器已停止
+2025-06-16 11:33:31,818 - INFO - MCP连接已清理
+2025-06-16 11:33:31,819 - INFO - MCP连接已清理
+2025-06-16 11:33:31,964 - INFO -  * Restarting with stat
+2025-06-16 11:33:33,319 - INFO - MCP客户端管理器已启动
+2025-06-16 11:33:33,320 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:33:33,322 - WARNING -  * Debugger is active!
+2025-06-16 11:33:33,325 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:33:33,754 - INFO - Client connected
+2025-06-16 11:33:33,995 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:33:33,997 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:33:33,997 - INFO - 连接服务器 weather 成功，耗时: 0.68秒
+2025-06-16 11:34:58,478 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\app.py', reloading
+2025-06-16 11:34:58,491 - INFO - MCP客户端管理器已停止
+2025-06-16 11:34:58,491 - INFO - MCP连接已清理
+2025-06-16 11:34:58,492 - INFO - MCP连接已清理
+2025-06-16 11:34:58,678 - INFO -  * Restarting with stat
+2025-06-16 11:35:00,038 - INFO - MCP客户端管理器已启动
+2025-06-16 11:35:00,039 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:35:00,040 - WARNING -  * Debugger is active!
+2025-06-16 11:35:00,043 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:35:00,256 - INFO - Client connected
+2025-06-16 11:35:00,846 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:35:00,846 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:35:00,846 - INFO - 连接服务器 weather 成功，耗时: 0.81秒
+2025-06-16 11:38:31,696 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\app.py', reloading
+2025-06-16 11:38:31,709 - INFO - MCP客户端管理器已停止
+2025-06-16 11:38:31,709 - INFO - MCP连接已清理
+2025-06-16 11:38:31,710 - INFO - MCP连接已清理
+2025-06-16 11:38:31,739 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MCPClientManager._disconnect_all() running at e:\upmicProject\upmic\project\AI\chatAssistant\mcpclient\mcp_client_manager.py:219> cb=[_chain_future.<locals>._call_set_state() at D:\soft\miniconda3\envs\py312\Lib\asyncio\futures.py:396]>
+2025-06-16 11:38:31,846 - INFO -  * Restarting with stat
+2025-06-16 11:38:33,239 - INFO - MCP客户端管理器已启动
+2025-06-16 11:38:33,239 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:38:33,241 - WARNING -  * Debugger is active!
+2025-06-16 11:38:33,246 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:38:33,756 - INFO - Client connected
+2025-06-16 11:38:33,896 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:38:33,896 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:38:33,896 - INFO - 连接服务器 weather 成功，耗时: 0.66秒
+2025-06-16 11:40:39,910 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\app.py', reloading
+2025-06-16 11:40:39,924 - INFO - MCP客户端管理器已停止
+2025-06-16 11:40:39,924 - INFO - MCP连接已清理
+2025-06-16 11:40:39,924 - INFO - MCP连接已清理
+2025-06-16 11:40:39,949 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MCPClientManager._disconnect_all() running at e:\upmicProject\upmic\project\AI\chatAssistant\mcpclient\mcp_client_manager.py:219> cb=[_chain_future.<locals>._call_set_state() at D:\soft\miniconda3\envs\py312\Lib\asyncio\futures.py:396]>
+2025-06-16 11:40:40,059 - INFO -  * Restarting with stat
+2025-06-16 11:40:41,463 - INFO - MCP客户端管理器已启动
+2025-06-16 11:40:41,464 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:40:41,466 - WARNING -  * Debugger is active!
+2025-06-16 11:40:41,471 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:40:42,152 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:40:42,152 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:40:42,153 - INFO - 连接服务器 weather 成功，耗时: 0.69秒
+2025-06-16 11:40:42,242 - INFO - Client connected
+2025-06-16 11:41:22,094 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\app.py', reloading
+2025-06-16 11:41:22,107 - INFO - MCP客户端管理器已停止
+2025-06-16 11:41:22,107 - INFO - MCP连接已清理
+2025-06-16 11:41:22,108 - INFO - MCP连接已清理
+2025-06-16 11:41:22,238 - INFO -  * Restarting with stat
+2025-06-16 11:41:23,648 - INFO - MCP客户端管理器已启动
+2025-06-16 11:41:23,649 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:41:23,651 - WARNING -  * Debugger is active!
+2025-06-16 11:41:23,656 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:41:23,771 - INFO - Client connected
+2025-06-16 11:41:24,416 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:41:24,416 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:41:24,417 - INFO - 连接服务器 weather 成功，耗时: 0.77秒
+2025-06-16 11:41:40,967 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\app.py', reloading
+2025-06-16 11:41:40,968 - ERROR - 清理连接资源时出错: Attempted to exit cancel scope in a different task than it was entered in
+2025-06-16 11:41:40,968 - INFO - 断开MCP服务器连接: weather
+2025-06-16 11:41:40,980 - INFO - MCP客户端管理器已停止
+2025-06-16 11:41:40,981 - INFO - MCP连接已清理
+2025-06-16 11:41:40,981 - INFO - MCP连接已清理
+2025-06-16 11:41:41,130 - INFO -  * Restarting with stat
+2025-06-16 11:41:42,564 - INFO - MCP客户端管理器已启动
+2025-06-16 11:41:42,564 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:41:42,567 - WARNING -  * Debugger is active!
+2025-06-16 11:41:42,572 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:41:42,746 - INFO - Client connected
+2025-06-16 11:41:43,308 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:41:43,309 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:41:43,309 - INFO - 连接服务器 weather 成功，耗时: 0.74秒
+2025-06-16 11:42:09,990 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\app.py', reloading
+2025-06-16 11:42:10,003 - INFO - MCP客户端管理器已停止
+2025-06-16 11:42:10,003 - INFO - MCP连接已清理
+2025-06-16 11:42:10,003 - INFO - MCP连接已清理
+2025-06-16 11:42:10,167 - INFO -  * Restarting with stat
+2025-06-16 11:42:11,523 - INFO - MCP客户端管理器已启动
+2025-06-16 11:42:11,524 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:42:11,527 - WARNING -  * Debugger is active!
+2025-06-16 11:42:11,532 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:42:11,750 - INFO - Client connected
+2025-06-16 11:42:12,214 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:42:12,214 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:42:12,216 - INFO - 连接服务器 weather 成功，耗时: 0.69秒
+2025-06-16 11:42:15,680 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\app.py', reloading
+2025-06-16 11:42:15,693 - INFO - MCP客户端管理器已停止
+2025-06-16 11:42:15,693 - INFO - MCP连接已清理
+2025-06-16 11:42:15,693 - INFO - MCP连接已清理
+2025-06-16 11:42:15,719 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MCPClientManager._disconnect_all() running at e:\upmicProject\upmic\project\AI\chatAssistant\mcpclient\mcp_client_manager.py:219> cb=[_chain_future.<locals>._call_set_state() at D:\soft\miniconda3\envs\py312\Lib\asyncio\futures.py:396]>
+2025-06-16 11:42:15,828 - INFO -  * Restarting with stat
+2025-06-16 11:42:17,206 - INFO - MCP客户端管理器已启动
+2025-06-16 11:42:17,207 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:42:17,209 - WARNING -  * Debugger is active!
+2025-06-16 11:42:17,211 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:42:17,764 - INFO - Client connected
+2025-06-16 11:42:17,881 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:42:17,881 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:42:17,882 - INFO - 连接服务器 weather 成功，耗时: 0.67秒
+2025-06-16 11:44:23,121 - INFO - MCP客户端管理器已停止
+2025-06-16 11:44:23,122 - INFO - MCP连接已清理
+2025-06-16 11:44:23,122 - INFO - MCP连接已清理
+2025-06-16 11:44:23,277 - INFO - MCP客户端管理器已停止
+2025-06-16 11:44:23,277 - INFO - MCP连接已清理
+2025-06-16 11:44:23,278 - INFO - MCP连接已清理
+2025-06-16 11:44:37,647 - INFO - MCP客户端管理器已启动
+2025-06-16 11:44:37,648 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:44:37,741 - INFO -  * Restarting with stat
+2025-06-16 11:44:38,300 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:44:38,300 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:44:38,300 - INFO - 连接服务器 weather 成功，耗时: 0.65秒
+2025-06-16 11:44:39,091 - INFO - MCP客户端管理器已启动
+2025-06-16 11:44:39,092 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:44:39,094 - WARNING -  * Debugger is active!
+2025-06-16 11:44:39,098 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:44:39,723 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:44:39,724 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:44:39,724 - INFO - 连接服务器 weather 成功，耗时: 0.63秒
+2025-06-16 11:44:42,243 - INFO - Client connected
+2025-06-16 11:45:42,349 - INFO - 127.0.0.1 - - [2025-06-16 11:45:42] "GET /upload_demo.html HTTP/1.1" 404 363 0.001993
+2025-06-16 11:45:42,374 - INFO - 127.0.0.1 - - [2025-06-16 11:45:42] "GET /favicon.ico HTTP/1.1" 404 363 0.001000
+2025-06-16 11:50:58,841 - INFO - 127.0.0.1 - - [2025-06-16 11:50:58] "GET /performance HTTP/1.1" 200 4320 0.000000
+2025-06-16 11:50:59,056 - INFO - 127.0.0.1 - - [2025-06-16 11:50:59] "GET /socket.io/?EIO=4&transport=polling&t=PTst9pl HTTP/1.1" 200 276 0.000000
+2025-06-16 11:50:59,100 - INFO - Client connected
+2025-06-16 11:50:59,100 - INFO - 127.0.0.1 - - [2025-06-16 11:50:59] "POST /socket.io/?EIO=4&transport=polling&t=PTst9qQ&sid=2f6GH6ISW2wHQ6toAAAC HTTP/1.1" 200 195 0.000999
+2025-06-16 11:50:59,101 - INFO - 127.0.0.1 - - [2025-06-16 11:50:59] "GET /socket.io/?EIO=4&transport=polling&t=PTst9qR&sid=2f6GH6ISW2wHQ6toAAAC HTTP/1.1" 200 189 0.000000
+2025-06-16 11:50:59,404 - INFO - 127.0.0.1 - - [2025-06-16 11:50:59] "GET /socket.io/?EIO=4&transport=polling&t=PTst9qX&sid=2f6GH6ISW2wHQ6toAAAC HTTP/1.1" 200 157 0.297660
+2025-06-16 11:51:04,794 - INFO - Client disconnected
+2025-06-16 11:51:12,631 - INFO - 127.0.0.1 - - [2025-06-16 11:51:12] "GET /demo HTTP/1.1" 200 14873 0.048275
+2025-06-16 11:51:12,650 - INFO - 127.0.0.1 - - [2025-06-16 11:51:12] "GET /socket.io/?EIO=4&transport=polling&t=PTstD89 HTTP/1.1" 200 276 0.000000
+2025-06-16 11:51:12,681 - INFO - Client connected
+2025-06-16 11:51:12,681 - INFO - 127.0.0.1 - - [2025-06-16 11:51:12] "POST /socket.io/?EIO=4&transport=polling&t=PTstD8d&sid=bi2oJfp8W1sFpH9iAAAE HTTP/1.1" 200 195 0.000000
+2025-06-16 11:51:12,682 - INFO - 127.0.0.1 - - [2025-06-16 11:51:12] "GET /socket.io/?EIO=4&transport=polling&t=PTstD8e&sid=bi2oJfp8W1sFpH9iAAAE HTTP/1.1" 200 189 0.000000
+2025-06-16 11:51:12,999 - INFO - 127.0.0.1 - - [2025-06-16 11:51:12] "GET /socket.io/?EIO=4&transport=polling&t=PTstD8k&sid=bi2oJfp8W1sFpH9iAAAE HTTP/1.1" 200 157 0.311022
+2025-06-16 11:51:33,602 - INFO - Processing audio data...
+2025-06-16 11:51:35,059 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-16 11:51:35,323 - INFO - 处理意图: weather, 实体: {'location': '深圳', 'time': ''}
+2025-06-16 11:51:35,323 - INFO - 查询城市: 深圳
+2025-06-16 11:51:36,415 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-16 11:51:42,659 - INFO - [STREAM] 流处理完成: 总时长=6.242s, 总chunk=176, 音频chunk=85, 文本chunk=87, 自适应批次大小=2, 平均网络延迟=0.000s
+2025-06-16 11:51:42,660 - INFO - [PERFORMANCE] _process_stream_optimized 执行时间: 6.243s
+2025-06-16 11:53:22,922 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\app.py', reloading
+2025-06-16 11:53:22,936 - INFO - MCP客户端管理器已停止
+2025-06-16 11:53:22,936 - INFO - MCP连接已清理
+2025-06-16 11:53:22,936 - INFO - MCP连接已清理
+2025-06-16 11:53:23,134 - INFO -  * Restarting with stat
+2025-06-16 11:53:24,621 - INFO - MCP客户端管理器已启动
+2025-06-16 11:53:24,622 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:53:24,624 - WARNING -  * Debugger is active!
+2025-06-16 11:53:24,629 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:53:24,829 - INFO - 127.0.0.1 - - [2025-06-16 11:53:24] "GET /socket.io/?EIO=4&transport=polling&t=PTstjGQ HTTP/1.1" 200 276 0.001009
+2025-06-16 11:53:24,835 - INFO - Client connected
+2025-06-16 11:53:24,836 - INFO - 127.0.0.1 - - [2025-06-16 11:53:24] "POST /socket.io/?EIO=4&transport=polling&t=PTstjPU&sid=txiimRzOCwEUVsjbAAAA HTTP/1.1" 200 195 0.001003
+2025-06-16 11:53:24,838 - INFO - 127.0.0.1 - - [2025-06-16 11:53:24] "GET /socket.io/?EIO=4&transport=polling&t=PTstjPc&sid=txiimRzOCwEUVsjbAAAA HTTP/1.1" 200 189 0.000000
+2025-06-16 11:53:25,139 - INFO - 127.0.0.1 - - [2025-06-16 11:53:25] "GET /socket.io/?EIO=4&transport=polling&t=PTstjPf&sid=txiimRzOCwEUVsjbAAAA HTTP/1.1" 200 157 0.298082
+2025-06-16 11:53:25,249 - INFO - Client connected
+2025-06-16 11:53:25,475 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:53:25,476 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:53:25,476 - INFO - 连接服务器 weather 成功，耗时: 0.85秒
+2025-06-16 11:54:59,833 - INFO - Client disconnected
+2025-06-16 11:55:00,096 - INFO - Client connected
+2025-06-16 11:55:04,763 - INFO - MCP客户端管理器已停止
+2025-06-16 11:55:04,763 - INFO - MCP连接已清理
+2025-06-16 11:55:04,763 - INFO - MCP连接已清理
+2025-06-16 11:55:04,816 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MCPClientManager._disconnect_all() running at e:\upmicProject\upmic\project\AI\chatAssistant\mcpclient\mcp_client_manager.py:219> cb=[_chain_future.<locals>._call_set_state() at D:\soft\miniconda3\envs\py312\Lib\asyncio\futures.py:396]>
+2025-06-16 11:55:04,999 - INFO - MCP客户端管理器已停止
+2025-06-16 11:55:04,999 - INFO - MCP连接已清理
+2025-06-16 11:55:05,000 - INFO - MCP连接已清理
+2025-06-16 11:55:13,137 - INFO - MCP客户端管理器已启动
+2025-06-16 11:55:13,138 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:55:13,231 - INFO -  * Restarting with stat
+2025-06-16 11:55:13,813 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:55:13,813 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:55:13,813 - INFO - 连接服务器 weather 成功，耗时: 0.68秒
+2025-06-16 11:55:14,614 - INFO - MCP客户端管理器已启动
+2025-06-16 11:55:14,615 - INFO - 开始连接MCP服务器: weather
+2025-06-16 11:55:14,617 - WARNING -  * Debugger is active!
+2025-06-16 11:55:14,621 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 11:55:15,301 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 11:55:15,301 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 11:55:15,302 - INFO - 连接服务器 weather 成功，耗时: 0.69秒
+2025-06-16 11:55:18,261 - INFO - Client connected
+2025-06-16 11:55:18,562 - INFO - 127.0.0.1 - - [2025-06-16 11:55:18] "GET /socket.io/?EIO=4&transport=polling&t=PTsu95h HTTP/1.1" 200 276 0.000000
+2025-06-16 11:55:18,563 - INFO - Client connected
+2025-06-16 11:55:18,564 - INFO - 127.0.0.1 - - [2025-06-16 11:55:18] "POST /socket.io/?EIO=4&transport=polling&t=PTsu9AZ&sid=nqwNaXebXcqc2j5RAAAC HTTP/1.1" 200 195 0.000999
+2025-06-16 11:55:18,564 - INFO - 127.0.0.1 - - [2025-06-16 11:55:18] "GET /socket.io/?EIO=4&transport=polling&t=PTsu9Aa&sid=nqwNaXebXcqc2j5RAAAC HTTP/1.1" 200 189 0.000000
+2025-06-16 11:55:18,879 - INFO - 127.0.0.1 - - [2025-06-16 11:55:18] "GET /socket.io/?EIO=4&transport=polling&t=PTsu9Ab&sid=nqwNaXebXcqc2j5RAAAC HTTP/1.1" 200 157 0.313693
+2025-06-16 11:55:19,818 - INFO - Client disconnected
+2025-06-16 11:55:20,076 - INFO - Client connected
+2025-06-16 11:56:23,499 - INFO - Client disconnected
+2025-06-16 11:56:23,678 - INFO - Client connected
+2025-06-16 11:56:40,541 - INFO - Processing audio data...
+2025-06-16 11:56:42,043 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-16 11:56:43,928 - INFO - 处理意图: weather, 实体: {'location': '深圳', 'time': ''}
+2025-06-16 11:56:43,929 - INFO - 查询城市: 深圳
+2025-06-16 11:56:45,062 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-16 11:57:22,407 - INFO - Client disconnected
+2025-06-16 11:57:22,601 - INFO - Client connected
+2025-06-16 16:17:47,952 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\app.py', reloading
+2025-06-16 16:17:47,965 - INFO - MCP客户端管理器已停止
+2025-06-16 16:17:47,965 - INFO - MCP连接已清理
+2025-06-16 16:17:47,967 - INFO - MCP连接已清理
+2025-06-16 16:17:48,051 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MCPClientManager._disconnect_all() running at e:\upmicProject\upmic\project\AI\chatAssistant\mcpclient\mcp_client_manager.py:219> cb=[_chain_future.<locals>._call_set_state() at D:\soft\miniconda3\envs\py312\Lib\asyncio\futures.py:396]>
+2025-06-16 16:17:48,216 - INFO -  * Restarting with stat
+2025-06-16 16:17:49,801 - INFO - MCP客户端管理器已启动
+2025-06-16 16:17:49,802 - INFO - 开始连接MCP服务器: weather
+2025-06-16 16:17:49,806 - WARNING -  * Debugger is active!
+2025-06-16 16:17:49,809 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 16:17:50,269 - INFO - Client connected
+2025-06-16 16:17:50,581 - INFO - 127.0.0.1 - - [2025-06-16 16:17:50] "GET /socket.io/?EIO=4&transport=polling&t=PTtqEoz HTTP/1.1" 200 276 0.000503
+2025-06-16 16:17:50,582 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 16:17:50,583 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 16:17:50,583 - INFO - 连接服务器 weather 成功，耗时: 0.78秒
+2025-06-16 16:17:50,585 - INFO - Client connected
+2025-06-16 16:17:50,586 - INFO - 127.0.0.1 - - [2025-06-16 16:17:50] "POST /socket.io/?EIO=4&transport=polling&t=PTtqEtt&sid=_ap3wE-NQjnDv3PkAAAC HTTP/1.1" 200 195 0.000000
+2025-06-16 16:17:50,586 - INFO - 127.0.0.1 - - [2025-06-16 16:17:50] "GET /socket.io/?EIO=4&transport=polling&t=PTtqEtv&sid=_ap3wE-NQjnDv3PkAAAC HTTP/1.1" 200 189 0.000000
+2025-06-16 16:17:50,917 - INFO - 127.0.0.1 - - [2025-06-16 16:17:50] "GET /socket.io/?EIO=4&transport=polling&t=PTtqEtx&sid=_ap3wE-NQjnDv3PkAAAC HTTP/1.1" 200 157 0.330155
+2025-06-16 16:19:59,190 - INFO - Client disconnected
+2025-06-16 16:31:29,846 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\app.py', reloading
+2025-06-16 16:31:29,859 - INFO - MCP客户端管理器已停止
+2025-06-16 16:31:29,859 - INFO - MCP连接已清理
+2025-06-16 16:31:29,860 - INFO - MCP连接已清理
+2025-06-16 16:31:29,896 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MCPClientManager._disconnect_all() running at e:\upmicProject\upmic\project\AI\chatAssistant\mcpclient\mcp_client_manager.py:219> cb=[_chain_future.<locals>._call_set_state() at D:\soft\miniconda3\envs\py312\Lib\asyncio\futures.py:396]>
+2025-06-16 16:31:30,016 - INFO -  * Restarting with stat
+2025-06-16 16:31:31,605 - INFO - MCP客户端管理器已启动
+2025-06-16 16:31:31,606 - INFO - 开始连接MCP服务器: weather
+2025-06-16 16:31:31,608 - WARNING -  * Debugger is active!
+2025-06-16 16:31:31,610 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 16:31:31,758 - INFO - Client connected
+2025-06-16 16:31:32,317 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 16:31:32,318 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 16:31:32,318 - INFO - 连接服务器 weather 成功，耗时: 0.71秒
+2025-06-16 16:33:39,126 - INFO - MCP客户端管理器已停止
+2025-06-16 16:33:39,127 - INFO - MCP连接已清理
+2025-06-16 16:33:39,129 - INFO - MCP连接已清理
+2025-06-16 16:33:39,283 - INFO - MCP客户端管理器已停止
+2025-06-16 16:33:39,284 - INFO - MCP连接已清理
+2025-06-16 16:33:39,285 - INFO - MCP连接已清理
+2025-06-16 16:33:39,354 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MCPClientManager._disconnect_all() running at e:\upmicProject\upmic\project\AI\chatAssistant\mcpclient\mcp_client_manager.py:219> cb=[_chain_future.<locals>._call_set_state() at D:\soft\miniconda3\envs\py312\Lib\asyncio\futures.py:396]>
+2025-06-16 16:33:59,267 - INFO - MCP客户端管理器已启动
+2025-06-16 16:33:59,268 - INFO - 开始连接MCP服务器: weather
+2025-06-16 16:33:59,361 - INFO -  * Restarting with stat
+2025-06-16 16:34:00,034 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 16:34:00,035 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 16:34:00,035 - INFO - 连接服务器 weather 成功，耗时: 0.77秒
+2025-06-16 16:34:00,848 - INFO - MCP客户端管理器已启动
+2025-06-16 16:34:00,849 - INFO - 开始连接MCP服务器: weather
+2025-06-16 16:34:00,851 - WARNING -  * Debugger is active!
+2025-06-16 16:34:00,855 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 16:34:01,528 - ERROR - 刷新服务器 weather 能力时出错: 'coroutine' object has no attribute 'tools'
+2025-06-16 16:34:01,529 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 16:34:01,530 - INFO - 连接服务器 weather 成功，耗时: 0.68秒
+2025-06-16 16:34:06,241 - INFO - Client connected
+2025-06-16 16:34:11,603 - INFO - Client disconnected
+2025-06-16 16:34:11,867 - INFO - Client connected
+2025-06-16 16:34:29,090 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-16 16:34:29,095 - INFO - 处理意图: conversation, 实体: {}
+2025-06-16 16:34:29,501 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/embeddings "HTTP/1.1 200 OK"
+2025-06-16 16:34:29,678 - INFO - HTTP Request: POST http://192.168.100.13:8008/rest/v1/rpc/match_documents "HTTP/1.1 200 OK"
+2025-06-16 16:34:29,680 - INFO - 检索到 0 个相关文档
+2025-06-16 16:34:30,292 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-16 16:36:23,127 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-16 16:36:23,129 - INFO - 处理意图: weather, 实体: {'location': '深圳市', 'time': '明天'}
+2025-06-16 16:36:23,129 - INFO - 查询城市: 深圳市
+2025-06-16 16:36:24,291 - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-06-16 16:44:19,166 - INFO -  * Detected change in 'e:\\upmicProject\\upmic\\project\\AI\\chatAssistant\\mcpclient\\mcp_client_manager.py', reloading
+2025-06-16 16:44:19,179 - INFO - MCP客户端管理器已停止
+2025-06-16 16:44:19,179 - INFO - MCP连接已清理
+2025-06-16 16:44:19,180 - INFO - MCP连接已清理
+2025-06-16 16:44:19,218 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-6' coro=<MCPClientManager._disconnect_all() running at e:\upmicProject\upmic\project\AI\chatAssistant\mcpclient\mcp_client_manager.py:219> cb=[_chain_future.<locals>._call_set_state() at D:\soft\miniconda3\envs\py312\Lib\asyncio\futures.py:396]>
+2025-06-16 16:44:19,344 - INFO -  * Restarting with stat
+2025-06-16 16:44:20,875 - INFO - MCP客户端管理器已启动
+2025-06-16 16:44:20,876 - INFO - 开始连接MCP服务器: weather
+2025-06-16 16:44:20,877 - WARNING -  * Debugger is active!
+2025-06-16 16:44:20,880 - INFO -  * Debugger PIN: 170-709-737
+2025-06-16 16:44:21,252 - INFO - Client connected
+2025-06-16 16:44:21,686 - ERROR - 刷新服务器 weather 能力时出错: object of type 'ListToolsResult' has no len()
+2025-06-16 16:44:21,686 - INFO - 成功连接到MCP服务器: weather
+2025-06-16 16:44:21,686 - INFO - 连接服务器 weather 成功，耗时: 0.81秒
